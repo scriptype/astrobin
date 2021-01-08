@@ -147,7 +147,7 @@ pbr==5.5.1
 pem==20.1.0
 Pillow==6.2.2
 ply==3.11
-psycopg2==2.7.1
+psycopg2==2.8.6
 -e git+https://github.com/siovene/pybbm.git@11f8d488b6781bda35f22993b493616277c96eda#egg=pybbm
 pycodestyle==2.6.0
 pycparser==2.20
